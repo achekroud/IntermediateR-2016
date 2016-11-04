@@ -15,4 +15,6 @@ There are three scripts that we will work through in order
 
 02 -- Next, we review some "best practices" & stylistic guidelines for R programmming
 
-03 -- Finally, we tie it together in an example: visualising a large public dataset in R.
+03 -- Third, we run through a quick ggplot introduction, courtesy of Edwin Chen
+
+04 -- Finally, we tie it together in an example: visualising a large public dataset in R.
