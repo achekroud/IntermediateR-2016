@@ -5,7 +5,7 @@
 # Adam M Chekroud
 # November 4th, 2016
 
-## download everything from github: git clone xxxx
+## download everything from github: git clone https://github.com/achekroud/IntermediateR-2016.git
 
 # Open up R Studio
 # Open up intermediate-R-2016.R from that folder:  File > Open script
@@ -15,12 +15,6 @@ setwd("~/Desktop/IntermediateR-2016")
 
 # Setting the seed ensures reproducibility of random sequences
 set.seed(1)
-
-# You install packages with the install.packages() function
-# I highly recommend the tidyverse package: https://blog.rstudio.org/2016/09/15/tidyverse-1-0-0/
-# install.packages("tidyverse")
-
-library(tidyverse)
 
 
 ###########################

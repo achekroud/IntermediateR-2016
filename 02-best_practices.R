@@ -9,6 +9,15 @@
 ##### Best Practices ######
 ###########################
 
+# Setting the seed ensures reproducibility of random sequences
+set.seed(1)
+
+# You install packages with the install.packages() function
+# I highly recommend the tidyverse package: https://blog.rstudio.org/2016/09/15/tidyverse-1-0-0/
+# install.packages("tidyverse")
+
+library(tidyverse)
+
 # It is important to consider the readability of your code!
 
 # Two extremely helpful resources:
